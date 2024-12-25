@@ -49,6 +49,6 @@ No, the app is lightweight and optimized for minimal resource usage.
 
 If you need further assistance or find any issues/bugs, feel free to reach out:
 - **Email**: tech.sec.deepdive@gmail.com
-- **Community issue link**: [https://github.com/ulixcode-labs/AdTrackingDefender-support/issues](https://github.com/adblockerprivacyguard/AdTrackingDefender-support/issues)
+- **Community issue link**: https://github.com/adblockerprivacyguard/AdTrackingDefender-support/issues
   
 We’re here to help and value your feedback!
